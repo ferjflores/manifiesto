@@ -1,5 +1,0 @@
-administer medium:
-  title: 'Administer Medium'
-  restrict access: true
-access ajax preview:
-  title: 'Access ajax preview'
